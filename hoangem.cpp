@@ -19,6 +19,8 @@ class DATE{
             nam = other.nam;
         }
         void dispDATE(){
+            /* hehehehehe */
+            cout << endl;
             string ngayS = "";
             string thangS = "";
             string namS = to_string(nam);
