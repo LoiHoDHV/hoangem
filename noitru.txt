@@ -1,0 +1,44 @@
+Le Van Hoang
+nam
+22/01/2000
+Khoe
+Khoa chu tich
+20/01/2020
+21/01/2020
+1  22
+
+Tran Thu Hien
+nu
+20/09/2000
+sinh con
+Khoa san
+20/01/2020
+21/01/2020
+2  23
+
+Tran Van Huy
+nam
+25/03/2000
+covid
+Khoa ngoai
+26/01/2016
+11/01/2018
+3  24
+
+Nguyen Ba Luong
+nam
+11/11/2000
+boc phet
+Khoa ngoai
+26/01/2016
+11/01/2018
+5  27
+
+Luu Van Dat
+nam
+23/06/2000
+Di ung bong da
+Khoa bong da
+01/02/2020
+11/01/2021
+8  23
